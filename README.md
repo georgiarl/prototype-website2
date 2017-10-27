@@ -5,8 +5,7 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-Prototype Website
+PROTOTYPE WEBSITE
 =================
 
-Built by Georgia and Vik
-
+The Best Prototype Website Ever
